@@ -20,8 +20,6 @@ A two-player Tic-Tac-Toe game built using an ESP8266 NodeMCU board, 5 physical p
 
 ## 📷 Screenshot
 
-![Web UI Screenshot](screenshot.png)
-
 ---
 
 ## 🖥️ Web Interface
@@ -55,15 +53,6 @@ The PCB includes:
 - All traces on the bottom side
 
 ---
-
-## 📁 Repository Structure
-├── src/
-│ └── xox_game.ino # Main Arduino sketch
-├── schematic/
-│ └── xox_pcb.kicad_pro # KiCad files
-├── screenshot.png
-├── LICENSE
-├── README.md
 
 ## 🚀 Getting Started
 
