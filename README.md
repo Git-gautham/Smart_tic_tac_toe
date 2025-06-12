@@ -19,6 +19,11 @@ A two-player Tic-Tac-Toe game built using an ESP8266 NodeMCU board, 5 physical p
 ---
 
 ## 📷 Screenshot
+![Screenshot1](https://github.com/user-attachments/assets/1f43cd47-1747-493a-b590-d42e7eed33f6)
+
+![Screenshot2](https://github.com/user-attachments/assets/d0e79774-9f99-4424-af77-95da7b71d8a2)
+
+![Screenshot3](https://github.com/user-attachments/assets/69a96739-7fec-447d-9bbc-b853a9678548)
 
 ---
 
@@ -42,6 +47,9 @@ Once powered on:
 
 **ESP8266 Dev Board:** NodeMCU v1.0 (ESP-12E module)  
 **Buttons:** Tactile push buttons
+**Hardware simulation :
+![Circuit demo](https://github.com/user-attachments/assets/d023299a-a0e7-45b1-98bb-8563fd79c228)
+!!Down button is not placed due to certain technical difficulties
 
 ---
 
